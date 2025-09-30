@@ -5,6 +5,8 @@ description: 'Example of student work: an essay on the future of globalization b
 file: /courses/17-199j-working-in-a-global-economy-fall-2005/45fb4b02f305ddf4db71773fe10cb537_Globalization2.pdf
 file_size: 63702
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

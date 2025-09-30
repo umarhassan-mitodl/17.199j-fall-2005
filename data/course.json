@@ -32,6 +32,7 @@
     "website": "17-199j-working-in-a-global-economy-fall-2005"
   },
   "course_title": "Working in a Global Economy",
+  "hide_download": true,
   "course_description": "The course introduces the main debates about the \"new\" global economy and their implications for practice and policy. Experts from academia and business will share their findings about, and direct experiences with, different aspects of globalization.\n",
   "department_numbers": [
     "17",
@@ -43,6 +44,7 @@
     "content": "06081d1d-2987-3cc3-9b6b-2f5048ebe12e",
     "website": "17-199j-working-in-a-global-economy-fall-2005"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Written Assignments with Examples"
   ],
