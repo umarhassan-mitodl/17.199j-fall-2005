@@ -4,8 +4,6 @@ description: 'Example of student work: an essay on globalization by Mariel John.
 file: /courses/17-199j-working-in-a-global-economy-fall-2005/3c4dc81d45f40743b880080958f37eba_GlobalizationPaper.pdf
 file_size: 93178
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

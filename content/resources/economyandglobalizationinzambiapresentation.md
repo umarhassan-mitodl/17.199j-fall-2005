@@ -5,8 +5,6 @@ description: 'Example of student work: a slide presentation on the economy and g
 file: /courses/17-199j-working-in-a-global-economy-fall-2005/b8d947e9a6bb16517c1eafcbbf42f506_EconomyandGlobalizationinZambiapresentation.pdf
 file_size: 119433
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
